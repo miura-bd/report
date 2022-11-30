@@ -20,6 +20,8 @@
   - 参加できなくなったらちゃんとキャンセルしましょうね（自戒も込めて）
   - 私は参加できないので、誰かのアウトプットに期待です！！
   
+---
+
 ## Amazon CodeWhisperer: ML-powered coding companion
 
 - 一般提供が開始された
